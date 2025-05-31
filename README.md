@@ -1,6 +1,6 @@
 #  About Me:
 
-Hey. I'm Hamed Irvani, I'm a web developer and I'm passionate about Front-End, UI/UX and designing. I love learning and exploring new things.<br>
+Hey. I'm Hamed Irvani, a web developer and I'm passionate about Front-End, UI/UX and designing. I love learning and exploring new things.<br>
 
 # 💻 Tech Stack:
 
